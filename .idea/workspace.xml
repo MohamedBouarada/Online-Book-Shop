@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a578664a-e43b-406f-a32b-ab92eb3c232c" name="Default Changelist" comment="projet">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_06_2021_16_19_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_06_2021_16_19__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_2021_20_40_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_06_2021_20_40__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/CSS/styleLogin.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/CSS/styleLogin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/WelcomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/WelcomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/mail/EmailVerif.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/mail/EmailVerif.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/security/login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/security/login.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +171,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PHP2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../htdocs" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -274,7 +272,18 @@
       <workItem from="1623605996475" duration="2588000" />
       <workItem from="1623621042911" duration="10263000" />
       <workItem from="1623709196412" duration="6552000" />
-      <workItem from="1623717520869" duration="5254000" />
+      <workItem from="1623717520869" duration="6488000" />
+      <workItem from="1627495349747" duration="250000" />
+      <workItem from="1627495707721" duration="650000" />
+      <workItem from="1628765410918" duration="1326000" />
+      <workItem from="1628766870119" duration="214000" />
+      <workItem from="1629363199993" duration="2814000" />
+      <workItem from="1629376988234" duration="89000" />
+      <workItem from="1629379273880" duration="27000" />
+      <workItem from="1629448000814" duration="1138000" />
+      <workItem from="1629449590676" duration="1349000" />
+      <workItem from="1629461611868" duration="2772000" />
+      <workItem from="1629535185960" duration="2774000" />
     </task>
     <task id="LOCAL-00001" summary="projet">
       <created>1622140690597</created>
